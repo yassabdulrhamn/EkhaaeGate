@@ -79,7 +79,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@yassabdulrhman](https://twitter.com/yassabdulrhman) - yaserabdulrahman@outlook.com
+Yaser Abdulrahman - [@yassabdulrhman](https://twitter.com/yassabdulrhman) - yaserabdulrahman@outlook.com
 
 Project Link: [https://github.com/yassabdulrhamn/BodyFuel](https://github.com/yassabdulrhamn/BodyFuel)
 
